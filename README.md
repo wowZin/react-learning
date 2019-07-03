@@ -4,8 +4,8 @@
 ### 目录 ###
 
 1. [react知识导图](#./chapter1/react知识导图.png)
-2. [react基础](#./chapter2/react初始化.md) 
-	2.1 [react初始化](#./chapter2/react初始化.md) 
+2. [react基础](#./chapter2/react初始化.md)   
+	2.1 [react初始化](#./chapter2/react初始化.md)   
 	2.2 jsx
 	2.3 组件  
     2.3 组件通信  
