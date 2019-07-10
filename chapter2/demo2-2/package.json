@@ -1,0 +1,17 @@
+{
+  "name": "demo2-2",
+  "version": "1.0.0",
+  "description": "check jsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wowzin",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-syntax-jsx": "^7.2.0",
+    "@babel/preset-env": "^7.5.4"
+  }
+}
