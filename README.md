@@ -3,11 +3,11 @@
 关于react学习大致分为三个阶段： 1.基本概念(api)熟记; 2.源码学习笔记;3.react组件单元测试练习
 ### 目录 ###
 
-1. [react知识导图](#./chapter1/react知识导图.png)
-2. [react基础](#./chapter2/react初始化.md)   
-	2.1 [react初始化](#./chapter2/react初始化.md)   
-	2.2 [jsx介绍](#./chapter2/jsx介绍.md)   
-	2.3 组件  
+1. [react知识导图](./chapter1/react知识导图.png)
+2. [react基础](./chapter2/react初始化.md)   
+	2.1 [react初始化](./chapter2/react初始化.md)   
+	2.2 [jsx介绍](./chapter2/jsx介绍.md)   
+	2.3 [组件](./chapter2/组件.md)  
     2.3 组件通信  
 	2.4 render函数     
     2.5 hooks  
